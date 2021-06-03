@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mvp-11235
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python, CSS, Javascript, HTML, C#, JAVA etc.
 - 📫 How to reach me: please contact me on joanneleeathena@gmail.com
 
 <!---
