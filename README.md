@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mvp-11235
+- 👋 Hi there, I’m @mvp-11235.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python, CSS, Javascript, HTML etc.
-- 📫 How to reach me: please contact me on joanneleeathena@gmail.com
+- 🌱 I’m currently learning JAVA and JavaScript.
+- 📫 How to reach me: please contact me on joanneleeathena@gmail.com.
 
 <!---
 mvp-11235/mvp-11235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
