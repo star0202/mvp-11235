@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <i><strong>'JavaScript.'</strong></i>
 - 💖 I like Python the most!
 - 📫 How to reach me: please contact me on joanneleeathena@gmail.com.
-- 📁 I belong to [YJ-Developer](https://github.com/yjdevs).
+- 📁 I belong to [YJ-Developers](https://github.com/yjdevs).
 
 # 🏫 School
 - Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2017 . 2 . ?  ~  Now)
