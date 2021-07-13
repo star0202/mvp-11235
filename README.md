@@ -8,7 +8,7 @@
 - 📁 I
 
 # 🏫 School
-- Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2016 . 2 . ?  ~  )
+- Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2017 . 2 . ?  ~  )
 
 # 💻Contest
 - 정보 올림피아드
