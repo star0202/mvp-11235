@@ -5,17 +5,19 @@
 - 🌱 I’m currently learning <i><strong>'JavaScript.'</strong></i>
 - 💖 I like Python the most!
 - 📫 How to reach me: please contact me on joanneleeathena@gmail.com.
-- 📁 I
+- 📁 I belong to [YJ-Developer](https://github.com/yjdevs).
 
 # 🏫 School
-- Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2017 . 2 . ?  ~  )
+- Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2017 . 2 . ?  ~  Now)
 
 # 💻Contest
 - 정보 올림피아드
 
-⏰ Now
+# ⏰ Now
+- KAIST 사이버 영재교육 3개 이수
+- The developer of School Information Programm with [star0202](https://github.com/star0202).
 
-# 📊 Status
+# 📊 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mvp-11235&count_private=true&show_icons=true&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=2C92CC&include_all_commits=true&custom_title=My%20Github%20Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvp-11235&&layout=compact&langs_count=10&theme=nightowl&bg_color=ffffff00&hide_border=true&title_color=2C92CC)](https://github.com/mvp-11235?tab=repositories)
 <br>
