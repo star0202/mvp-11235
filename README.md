@@ -11,7 +11,7 @@
 - Elementary School: [서울 양전초등학교](http://yangjeon.sen.es.kr/index.do)(2017 . 2 . ?  ~  Now)
 
 # 💻 Contest / Activities
-- 
+- 한양대 영재교육
 - Started learning programming in 2017(2nd grader). 2학년 때 프로그래밍 배우기 시작.
 - 정보 올림피아드 (when I was 4th grader, 4학년 때)
 - KAIST 사이버 영재교육 2개 이수 (when I was 5th grader, 5학년 때)
